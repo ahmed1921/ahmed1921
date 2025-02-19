@@ -14,5 +14,5 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Welcome to my GitHub profile! I am a Professional Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan with extensive experience in designing and developing engaging video games and interactive applications using the Unity game engine. I am committed to delivering high-quality, performant, and user-friendly software that meets the needs of my clients and exceeds the expectations of users.
+Welcome to my GitHub profile! I am a Professional Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from with extensive experience in developing engaging video games and interactive applications using the Unity game engine. I am committed to delivering high-quality, performant, and user-friendly software that meets the needs of my clients and exceeds the expectations of users.
 
