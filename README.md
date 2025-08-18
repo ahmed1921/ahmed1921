@@ -47,7 +47,7 @@ I specialize in delivering high-quality, optimized, and fun experiences that eng
 ## 📜 Certifications
 - 🎓 [RPG Core Combat Creator](https://ude.my/UC-9f916385-3d48-42e8-be5a-252f4602a2ee)  
 - 🎓 [Programming Design Patterns For Unity](http://ude.my/UC-06adbe4c-114e-426a-ae20-06b601252e3b)  
-- 🎓 [VR Development Fundamentals (Oculus Quest 2)](https://www.udemy.com/certificate/UC-ae88fd75-d2e8-40ae-b443-e13c5e9e8f29/)  
+- 🎓 [Creating an RPG Game in Unity](https://www.udemy.com/certificate/UC-ae88fd75-d2e8-40ae-b443-e13c5e9e8f29/)  
 - 🎓 [Multiplayer VR Development with Unity](https://www.udemy.com/certificate/UC-ed870429-9ffe-4d6d-9e19-d427a17953c4/)  
 
 ---
