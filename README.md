@@ -1,9 +1,10 @@
 <h1 align="center">
-  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  Hi there 👋 I'm Ahmed Danish  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
 <p align="center">
-  <b>I'm Ahmed Danish</b> – a Professional Unity Developer 🎮 from Pakistan  
+  🎮 Professional <b>Unity Developer</b> from Pakistan  
 </p>
 
 <p align="center">
@@ -12,35 +13,64 @@
 
 ---
 
-## 🚀 About Me
-I’m a **Unity Developer with 8+ years of experience** building immersive games and interactive apps for **mobile, AR, VR, and WebGL**.  
-I specialize in delivering high-quality, optimized, and fun experiences that engage players and users alike.  
-
-- 🎮 Developed **AAA-style gameplay** and casual hyper-casuals  
-- 🕶️ Built **AR/VR attractions & kiosks** for global brands (Coca-Cola, Universal, Boeing)  
-- 🌐 Shipped **cross-platform apps** (Android, iOS, WebGL)  
-- 🛠️ Skilled in **C#, Unity Render Pipelines, Addressables, PlayFab, Multiplayer APIs, Blockchain/NFT integration**  
-- 🏆 **Shoty Award Winner** – for eBay Vault VR project  
-
----
-
-## 🏗️ Highlight Projects
-- 🎉 **Coca-Cola Refresh Lounge** – Interactive kiosk for Universal Theme Park Orlando  
-- 🏰 **USJ No Limit Parade** – Bluetooth-driven rhythm mobile game for Universal Studios  
-- 🛩️ **Boeing Touch** – Augmented reality airplane customization app  
-- 🤖 **WarStrike** – Action-packed FPS game (Google Play)  
-- 🧩 **Murasaki7** – Anime Puzzle RPG with 200+ levels and manga integration  
-- 🎮 **Operation Unity** – Mini-games collection (Puzzle, Trivia, Match-3, etc.) for AdventHealth  
-
-👉 [View More Projects & Games](https://play.google.com/store/apps/dev?id=8741454390674286717)  
+## ✨ About Me
+- 🔹 **8+ years of experience** in Unity (2D/3D)  
+- 🔹 Expert in **Mobile, AR/VR, and WebGL**  
+- 🔹 Delivered projects for **Coca-Cola, Universal, Boeing**  
+- 🔹 Skilled in **C#, Addressables, Multiplayer, Blockchain/NFTs**  
+- 🔹 Passionate about **immersive experiences** that engage users  
+- 🔹 Always exploring new tech (recently experimenting with **Rust & Go**)  
 
 ---
 
 ## 🛠️ Tech & Skills
-- **Game Dev**: Unity (2D/3D), C#, Gameplay Architecture, Optimization  
-- **Immersive Tech**: AR, VR, Metaverse, Multiplayer  
-- **Tools**: Git, PlasticSCM, Figma, Addressables, Asset Bundles  
-- **Extras**: Blockchain, NFTs, SDK & Tools Development, Profiling & Performance Budgeting  
+
+<p>
+  <img src="https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp">
+  <img src="https://img.shields.io/badge/AR%2FVR-00FFEF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Addressables-ff69b4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PlayFab-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Blockchain-0ff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Metaverse-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Optimization-green?style=for-the-badge">
+</p>
+
+---
+
+## 🏗️ Highlight Projects
+
+<table>
+<tr>
+<td align="center">
+  <a href="https://www.findershare.com/">
+    <img src="https://img.shields.io/badge/CocaCola_Refresh_Lounge-red?style=for-the-badge&logo=coca-cola"><br>
+    🎉 Interactive kiosk at Universal Theme Park Orlando
+  </a>
+</td>
+<td align="center">
+  <a href="https://play.google.com/store/apps/details?id=gov.nih.neivr">
+    <img src="https://img.shields.io/badge/NEI_VR_App-blue?style=for-the-badge&logo=google-play"><br>
+    🩺 Eye disease VR testing app
+  </a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.gs360.warstrike.shooting.games">
+    <img src="https://img.shields.io/badge/WarStrike-FPS-orange?style=for-the-badge&logo=google-play"><br>
+    🔫 Action-packed FPS shooter
+  </a>
+</td>
+<td align="center">
+  <a href="https://play.google.com/store/apps/details?id=app.upblock">
+    <img src="https://img.shields.io/badge/Upblock-Hypercasual-pink?style=for-the-badge&logo=google-play"><br>
+    🧱 Runtime mesh cutting hypercasual
+  </a>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -52,10 +82,15 @@ I specialize in delivering high-quality, optimized, and fun experiences that eng
 
 ---
 
+## 🏆 Awards
+- 🏅 **Shoty Award Winner** – eBay Vault VR PSN Card Game  
+
+---
+
 ## 📫 Connect With Me
-<p align="left">
+<p>
   <a href="mailto:ahmed1921@live.com"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/ahmed-danish/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/ahmeddanisharif"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin"></a>
   <a href="https://www.findershare.com/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=unity"></a>
 </p>
 
