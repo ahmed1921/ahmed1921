@@ -55,8 +55,7 @@ I specialize in delivering high-quality, optimized, and fun experiences that eng
 ## 📫 Connect With Me
 <p align="left">
   <a href="mailto:ahmed1921@live.com"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/ahmeddanisharif"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://play.google.com/store/apps/developer?id=Ahmed+Danish"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play"></a>
+  <a href="https://www.linkedin.com/in/ahmed-danish/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin"></a>
   <a href="https://www.findershare.com/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=unity"></a>
 </p>
 
