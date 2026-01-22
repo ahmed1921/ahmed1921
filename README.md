@@ -161,7 +161,7 @@ Improved SDK stability, fixed critical issues, and added new VR features.
 Award-winning VR PSN card game.  
 Developed the **core gameplay loop** enabling card trading and interactive play.
 
-<img src="https://img.shields.io/badge/VR_Gameplay-FF6F00?style=for-the-badge" />
+<img src="https://shortyawards.imgix.net/entries/16th/dc87d1fa-90ce-4891-8b43-453e543edb3a.jpg?auto=format&fit=crop&h=300&q=65&w=500&s=982dbf159aa9112c9ddbbd2a0f582dbd" />
 
 </td>
 
