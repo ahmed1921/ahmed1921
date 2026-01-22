@@ -77,7 +77,7 @@ I build <b>games, AR/VR apps, and real-world interactive installations</b> — f
 Interactive music-based kiosk designed for **high-traffic theme park usage**.  
 Built gameplay loops, responsive UI, and optimized performance for continuous public interaction.
 
-<img src="https://img.shields.io/badge/Theme_Park_Kiosk-red?style=for-the-badge&logo=coca-cola" />
+<img src="https://www.universalorlando.com/webdata/k2/es/us/files/Images/gds/usf-cocacola-refresh-lounge-guests-at-sound-mixer-a.jpg" />
 
 </td>
 
