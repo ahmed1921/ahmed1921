@@ -47,7 +47,6 @@ games and immersive interactive systems for **mobile, AR/VR, WebGL, kiosks, and 
 ## 📦 Public Repositories
 
 An automatically updated grid of **all my public repositories**.
-Each card is a fixed-size project box with the title centered.
 
 <!-- REPO-GRID:START -->
 Loading repositories...
@@ -58,22 +57,50 @@ Loading repositories...
 ## 🏗️ Selected Projects (Professional Work)
 
 ### 🌍 Large-Scale / Enterprise / Attractions
-- 🥤 **Coca-Cola Refresh Lounge** — Interactive music kiosk at *Universal Studios Orlando*
-- 🎡 **Play-Doh Interactives** — Nationwide installations for *SEVEN (Saudi Arabia)*
-- 🎢 **USJ No-Limit Parade** — Performance optimization for live attraction (*Universal Studios Japan*)
+
+- 🥤 **Coca-Cola Refresh Lounge** — Interactive music kiosk at *Universal Studios Orlando*  
+  `on-site installation`
+
+- 🎡 **Play-Doh Interactives** — Nationwide interactive installations for *SEVEN (Saudi Arabia)*  
+  `on-site installation`
+
+- 🎢 **USJ No-Limit Parade** — Performance optimization for live attraction (*Universal Studios Japan*)  
+  `on-site installation`
+
+---
 
 ### 🕶️ AR / VR
-- ✈️ **Boeing Touch** — Real-time AR airplane detection
-- 🩺 **NEI VR – See What I See** — VR healthcare app for eye disease testing
-- 🎴 **eBay Vault (VR)** — Award-winning VR PSN card game
-- 🦁 **FinderShare** — Resort-based AR animal discovery experience
 
-### 🎮 Games
-- 🔫 **WarStrike** — FPS shooter (combat systems, weapons, HUD)
-- 🧱 **Uplock / Upblock** — Runtime mesh cutting (hyper-casual)
-- 🧩 **Murasaki7** — Anime Puzzle-RPG (200+ levels, PvE/PvP)
-- 🚿 **Car Wash: Auto Repair Garage** — Vehicle repair & customization gameplay
-- 🧠 **OUC Powerplay** — Interactive 3D grid-based educational game
+- ✈️ **Boeing Touch** — Real-time AR airplane detection  
+  `enterprise / internal`
+
+- 🩺 **NEI VR – See What I See** — VR healthcare application for eye disease testing  
+  [link](https://play.google.com/store/apps/details?id=gov.nih.neivr)
+
+- 🎴 **eBay Vault (VR)** — Award-winning VR PSN card game  
+  [link](https://shortyawards.com/16th/vault-trials)
+
+- 🦁 **FinderShare** — Resort-based AR animal discovery experience  
+  [link](https://www.findershare.com/)
+
+---
+
+### 🎮 Games (Mobile / WebGL)
+
+- 🔫 **WarStrike – FPS Shooter** — Combat systems, weapons, HUD  
+  [link](https://play.google.com/store/apps/details?id=com.gs360.warstrike.shooting.games)
+
+- 🧱 **Uplock (Upblock)** — Hyper-casual game with runtime mesh cutting  
+  [link](https://play.google.com/store/apps/details?id=app.upblock)
+
+- 🧩 **Murasaki7** — Anime Puzzle-RPG (200+ levels, PvE / PvP)  
+  [link](https://www.bluestacks.com/apps/puzzle/murasaki7-anime-puzzle-rpg-on-pc.html)
+
+- 🚿 **Car Wash: Auto Repair Garage** — Vehicle repair & customization gameplay  
+  `store link varies by region`
+
+- 🧠 **OUC Powerplay** — Interactive 3D grid-based educational game  
+  `exhibit-only project`
 
 ---
 
