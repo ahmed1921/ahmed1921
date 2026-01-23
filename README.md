@@ -50,7 +50,18 @@ An automatically updated grid of **all my public repositories**.
 Each card is a fixed-size project box with the title centered.
 
 <!-- REPO-GRID:START -->
-Loading repositories...
+<p align="center">
+<a href="https://github.com/ahmed1921/ahmed1921"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed1921&repo=ahmed1921&theme=tokyonight&hide_border=true" alt="ahmed1921" /></a>
+&nbsp;
+<a href="https://github.com/ahmed1921/SphereTest"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed1921&repo=SphereTest&theme=tokyonight&hide_border=true" alt="SphereTest" /></a>
+&nbsp;
+<a href="https://github.com/ahmed1921/pillpusher"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed1921&repo=pillpusher&theme=tokyonight&hide_border=true" alt="pillpusher" /></a>
+<br/><br/>
+<a href="https://github.com/ahmed1921/School-VR-Multiplayer"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed1921&repo=School-VR-Multiplayer&theme=tokyonight&hide_border=true" alt="School-VR-Multiplayer" /></a>
+&nbsp;
+<a href="https://github.com/ahmed1921/Color-Fill-3D"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed1921&repo=Color-Fill-3D&theme=tokyonight&hide_border=true" alt="Color-Fill-3D" /></a>
+&nbsp;
+</p>
 <!-- REPO-GRID:END -->
 
 ---
