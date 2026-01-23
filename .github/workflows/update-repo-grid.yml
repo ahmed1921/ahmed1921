@@ -1,0 +1,36 @@
+name: Update Repo Grid
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 4 * * *"
+  push:
+    branches: ["main", "master"]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Generate repo grid
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ahmeddanish
+          COLUMNS: "3"
+          THEME: "tokyonight"
+          EXCLUDE_FORKS: "true"
+          SORT: "updated"
+        run: python .github/scripts/generate_repo_grid.py
+      - name: Commit changes
+        run: |
+          git config user.name "repo-grid-bot"
+          git config user.email "repo-grid-bot@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: auto-update repo grid" || echo "No changes"
+          git push
