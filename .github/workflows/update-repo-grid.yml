@@ -3,7 +3,7 @@ name: Update Repo Grid
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 4 * * *"
+    - cron: "0 4 * * *"  # daily
   push:
     branches: ["main", "master"]
 
@@ -14,19 +14,27 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
       - name: Generate repo grid
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: ahmeddanish
+          GITHUB_USERNAME: ${{ github.repository_owner }}
           COLUMNS: "3"
+          CARD_WIDTH: "360"
           THEME: "tokyonight"
+          SORT: "updated"          # updated | stars | name
           EXCLUDE_FORKS: "true"
-          SORT: "updated"
+          EXCLUDE_ARCHIVED: "true"
+          MAX_REPOS: "999"
         run: python .github/scripts/generate_repo_grid.py
+
       - name: Commit changes
         run: |
           git config user.name "repo-grid-bot"
