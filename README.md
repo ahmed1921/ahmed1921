@@ -189,7 +189,7 @@ Implemented AR logic and real-world interaction systems.
 Implemented FPS combat systems, weapon mechanics, and HUD.
 
 <a href="https://play.google.com/store/apps/details?id=com.gs360.warstrike.shooting.games">
-  <img src="https://img.shields.io/badge/Google_Play-orange?style=for-the-badge&logo=google-play&logoColor=white" />
+  <img src="https://play-lh.googleusercontent.com/edaaI77a2zT4Gf1KETfZnl1ioCJZfe8W5pGcDyR0KQZG2BQosyhdiJjte3EH8Aiy=w1052-h592-rw" />
 </a>
 
 </td>
@@ -200,7 +200,7 @@ Implemented FPS combat systems, weapon mechanics, and HUD.
 Implemented **runtime mesh cutting** for procedural gameplay.
 
 <a href="https://play.google.com/store/apps/details?id=app.upblock">
-  <img src="https://img.shields.io/badge/Google_Play-pink?style=for-the-badge&logo=google-play&logoColor=white" />
+  <img src="https://play-lh.googleusercontent.com/z97VNV0r-bfCEHfZU213W1IuT4dANUny5SU7E-lD39mcPpB7WrPv7a5_MvNTg8EHdg8=w1052-h592-rw" />
 </a>
 
 </td>
@@ -212,7 +212,9 @@ Implemented **runtime mesh cutting** for procedural gameplay.
 ### 🧩 Murasaki7  
 Anime-style Puzzle-RPG with **200+ levels** and PvP/PvE systems.
 
-<img src="https://img.shields.io/badge/Puzzle_RPG-8E24AA?style=for-the-badge" />
+<a href="https://www.bluestacks.com/apps/puzzle/murasaki7-anime-puzzle-rpg-on-pc.html">
+  <img src="https://lh4.googleusercontent.com/a_YuEiiZGiuuh3YINy9fn5dVXUspaJTMR62IXSaq6f6plKl9y6LH4jsntMKvcd1hjeM=s0" />
+</a>
 
 </td>
 
