@@ -95,7 +95,9 @@ Below is an **automatically updated grid** of all my public repositories.
 Each card is a fixed-size project box with the title centered.
 
 <!-- REPO-GRID:START -->
-Loading repositories...
+|   |   |   |
+| --- | --- | --- |
+| <a href="https://github.com/ahmeddanish/ahmeddanish"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmeddanish&repo=ahmeddanish&theme=tokyonight&hide_border=true" /></a> |   |   |
 <!-- REPO-GRID:END -->
 
 ---
