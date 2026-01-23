@@ -134,21 +134,12 @@ Ensured smooth launch and runtime stability.
 <tr>
 <td width="50%" align="center">
 
-### ✈️ Boeing Touch  
-Real-time **AR airplane detection system** with high accuracy and performance constraints.
-
-<img src="https://img.shields.io/badge/AR_Technology-00E5FF?style=for-the-badge" />
-
-</td>
-
-<td width="50%" align="center">
-
 ### 🩺 NEI VR – *See What I See*  
 VR healthcare application for **eye disease testing**.  
 Improved SDK stability, fixed critical issues, and added new VR features.
 
 <a href="https://play.google.com/store/apps/details?id=gov.nih.neivr">
-  <img src="https://img.shields.io/badge/Google_Play-blue?style=for-the-badge&logo=google-play&logoColor=white" />
+  <img src="https://play-lh.googleusercontent.com/VOZm-5jXNyHW0Wdh_x7NhpMN8G57GnYtOVawVL7kX-Vi7xZqJTYQ5K6sEijJn72ru5c=w5120-h2880-rw" />
 </a>
 
 </td>
@@ -161,7 +152,9 @@ Improved SDK stability, fixed critical issues, and added new VR features.
 Award-winning VR PSN card game.  
 Developed the **core gameplay loop** enabling card trading and interactive play.
 
-<img src="https://shortyawards.imgix.net/entries/16th/dc87d1fa-90ce-4891-8b43-453e543edb3a.jpg?auto=format&fit=crop&h=300&q=65&w=500&s=982dbf159aa9112c9ddbbd2a0f582dbd" />
+<a href="https://shortyawards.com/16th/vault-trials">
+  <img src="https://dp6mhagng1yw3.cloudfront.net/entries/16th/abb2c9e4-d074-43b9-85ad-21efee4361ae.jpg" />
+</a>
 
 </td>
 
