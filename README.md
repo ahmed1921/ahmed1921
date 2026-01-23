@@ -34,23 +34,55 @@
 I’m a **Senior Unity Developer** with **8+ years of professional experience** building
 games and immersive interactive systems for **mobile, AR/VR, WebGL, kiosks, and live attractions**.
 
-- 🧠 8+ years of Unity (2D / 3D) development
-- 🕶️ AR/VR apps, mobile games, WebGL & touchscreen kiosks
-- 🌍 Worked on projects for **Coca-Cola, Universal Studios, Boeing, AdventHealth, eBay**
-- ⚙️ Strong focus on **optimization, tooling, and scalable systems**
-- 🧩 Enjoy solving complex technical problems
-- 🧪 Currently exploring **Rust & Go** alongside game tech
+- 🧠 8+ years of Unity (2D / 3D)
+- 🕶️ AR/VR, Mobile, WebGL, Touchscreen Kiosks
+- 🌍 Worked with **Coca-Cola, Universal Studios, Boeing, AdventHealth, eBay**
+- ⚙️ Optimization, tooling, and scalable systems
+- 🧩 Strong problem-solving mindset
 
 > *“Build things people love to interact with.”*
 
 ---
 
-## 🛠️ Tech Stack
+## 📦 Public Repositories
+
+An automatically updated grid of **all my public repositories**.
+Each card is a fixed-size project box with the title centered.
+
+<!-- REPO-GRID:START -->
+Loading repositories...
+<!-- REPO-GRID:END -->
+
+---
+
+## 🏗️ Selected Projects (Professional Work)
+
+### 🌍 Large-Scale / Enterprise / Attractions
+- 🥤 **Coca-Cola Refresh Lounge** — Interactive music kiosk at *Universal Studios Orlando*
+- 🎡 **Play-Doh Interactives** — Nationwide installations for *SEVEN (Saudi Arabia)*
+- 🎢 **USJ No-Limit Parade** — Performance optimization for live attraction (*Universal Studios Japan*)
+
+### 🕶️ AR / VR
+- ✈️ **Boeing Touch** — Real-time AR airplane detection
+- 🩺 **NEI VR – See What I See** — VR healthcare app for eye disease testing
+- 🎴 **eBay Vault (VR)** — Award-winning VR PSN card game
+- 🦁 **FinderShare** — Resort-based AR animal discovery experience
+
+### 🎮 Games
+- 🔫 **WarStrike** — FPS shooter (combat systems, weapons, HUD)
+- 🧱 **Uplock / Upblock** — Runtime mesh cutting (hyper-casual)
+- 🧩 **Murasaki7** — Anime Puzzle-RPG (200+ levels, PvE/PvP)
+- 🚿 **Car Wash: Auto Repair Garage** — Vehicle repair & customization gameplay
+- 🧠 **OUC Powerplay** — Interactive 3D grid-based educational game
+
+---
+
+## 🛠️ Tech Stack & Skills
 
 **Core**
 - Unity (2D / 3D)
 - C#
-- Mobile (Android / iOS)
+- Android / iOS
 - WebGL
 
 **AR / VR**
@@ -59,56 +91,28 @@ games and immersive interactive systems for **mobile, AR/VR, WebGL, kiosks, and 
 - Real-time AR detection
 - VR interaction systems
 
-**Systems & Tools**
+**Systems**
 - Addressables
 - PlayFab
 - Photon
 - Netcode for GameObjects
 - REST / TCP / HTTP APIs
-- Editor tooling & SDK development
 
 **Rendering & Performance**
 - URP / HDRP
 - UI Toolkit & Canvas
-- Memory & CPU optimization
-- Runtime systems & procedural logic
-
----
-
-## 🏗️ Professional Highlights
-
-- 🥤 **Coca-Cola Refresh Lounge** — Interactive music kiosk at *Universal Studios Orlando*
-- 🎡 **Play-Doh Interactives** — Nationwide installations for *SEVEN (Saudi Arabia)*
-- 🏥 **Operation Unity (AdventHealth)** — Educational mini-game suite
-- ✈️ **Boeing Touch** — Real-time AR airplane detection
-- 🎴 **eBay Vault (VR)** — Award-winning VR PSN card game
-- 🔫 **WarStrike** — FPS shooter (combat systems & HUD)
-- 🧱 **Uplock / Upblock** — Runtime mesh cutting (hyper-casual)
-- 🧩 **Murasaki7** — Anime Puzzle-RPG (200+ levels)
-- 🎢 **USJ No-Limit Parade** — Performance optimization (Universal Studios Japan)
-
----
-
-## 📦 Public Repositories
-
-Below is an **automatically updated grid** of all my public repositories.
-Each card is a fixed-size project box with the title centered.
-
-<!-- REPO-GRID:START -->
-|   |   |   |
-| --- | --- | --- |
-| <a href="https://github.com/ahmeddanish/ahmeddanish"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmeddanish&repo=ahmeddanish&theme=tokyonight&hide_border=true" /></a> |   |   |
-<!-- REPO-GRID:END -->
+- Performance optimization
+- Runtime & procedural systems
 
 ---
 
 ## ⚙️ What I’m Known For
 
-- 🚀 Performance optimization (mobile, AR/VR, public installations)
-- 🧰 Editor tools & reusable systems
-- 🌐 Multiplayer & backend integrations
-- 🧠 Runtime gameplay systems & procedural logic
-- 🔗 Blockchain / NFT / smart-contract integrations (when required)
+- 🚀 Performance optimization (mobile, AR/VR, installations)
+- 🧰 Editor tools & reusable pipelines
+- 🌐 Multiplayer & backend integration
+- 🧠 Complex gameplay systems
+- 🔗 Blockchain / NFT integrations (when required)
 
 ---
 
