@@ -21,17 +21,62 @@ I've contributed to experiences for **Universal Studios, Coca-Cola, Boeing, eBay
 
 ## Selected work
 
+<p align="center"><a href="#ebay-vault"><b>01 · eBay Vault</b></a> &nbsp; | &nbsp; <a href="#coca-cola"><b>02 · Coca-Cola</b></a> &nbsp; | &nbsp; <a href="#more-selected-work"><b>More work ↓</b></a></p>
+
+<a name="ebay-vault"></a>
+### eBay Vault · VR experience
+
+Contributed to the award-winning Vault Trials experience. Explore the gameplay and physical card-scanning setup below.
+
+<p align="center"><a href="assets/ebay-vault-prized-possessions.jpg"><img src="assets/ebay-vault-prized-possessions.jpg" width="800" alt="eBay Vault VR: Prized Possessions card selection gameplay." /></a></p>
+
+<table>
+<tr>
+<td align="center" width="33%"><a href="assets/ebay-vault-prized-possessions.jpg"><img src="assets/ebay-vault-prized-possessions.jpg" height="110" alt="Open Prized Possessions screenshot" /></a><br/><b>01 · Prized Possessions</b></td>
+<td align="center" width="33%"><a href="assets/ebay-vault-card-scanning.jpg"><img src="assets/ebay-vault-card-scanning.jpg" height="110" alt="Open physical card scanning photo" /></a><br/><b>02 · Card scanning</b></td>
+<td align="center" width="33%"><a href="assets/ebay-vault-pin-the-price.jpg"><img src="assets/ebay-vault-pin-the-price.jpg" height="110" alt="Open Pin the Price screenshot" /></a><br/><b>03 · Pin the Price</b></td>
+</tr>
+</table>
+
+<details>
+<summary><b>Expand all 3 photos</b></summary>
+
+#### 01 · Prized Possessions
+<img src="assets/ebay-vault-prized-possessions.jpg" width="800" alt="Prized Possessions VR gameplay." />
+
+#### 02 · Card scanning
+<img src="assets/ebay-vault-card-scanning.jpg" width="318" alt="Physical collectible card being scanned." />
+
+#### 03 · Pin the Price
+<img src="assets/ebay-vault-pin-the-price.jpg" width="800" alt="Pin the Price VR gameplay." />
+
+</details>
+
+<p><a href="https://shortyawards.com/16th/vault-trials"><b>Explore the award-winning project →</b></a> &nbsp; | &nbsp; <a href="#coca-cola">Next project: Coca-Cola ↓</a></p>
+
+---
+
+<a name="coca-cola"></a>
 ### Coca-Cola Refresh Lounge · Universal Studios Orlando
 
 Interactive music kiosks with effects, volume, and sound mixers.
 
-<p align="center">
-  <a href="https://www.tiktok.com/@walruscarp/video/7678091109360307486">
-    <img src="assets/coca-cola-refresh-lounge.jpg" width="700" alt="Coca-Cola Refresh Lounge installation showing effects, volume, and sound mixer kiosks and illuminated wall displays." />
-  </a>
-</p>
+<p align="center"><a href="https://www.tiktok.com/@walruscarp/video/7678091109360307486"><img src="assets/coca-cola-refresh-lounge.jpg" width="560" alt="Coca-Cola Refresh Lounge photo gallery: mixer kiosks and illuminated wall displays. Click to watch the TikTok video." /></a></p>
 
-<p align="center"><a href="https://www.tiktok.com/@walruscarp/video/7678091109360307486"><b>Watch the experience on TikTok →</b></a><br/><sub>Video by @walruscarp</sub></p>
+<p align="center"><a href="https://www.tiktok.com/@walruscarp/video/7678091109360307486"><b>Watch video →</b></a> &nbsp; | &nbsp; <a href="assets/coca-cola-refresh-lounge.jpg">Open full-size photo</a><br/><sub>Video by @walruscarp</sub></p>
+
+<details>
+<summary><b>Expand installation photo</b></summary>
+
+<img src="assets/coca-cola-refresh-lounge.jpg" width="800" alt="Full installation collage showing effects, volume, and sound mixer kiosks and wall displays." />
+
+</details>
+
+<p><a href="#ebay-vault">↑ Previous project: eBay Vault</a> &nbsp; | &nbsp; <a href="#more-selected-work">More work ↓</a></p>
+
+---
+
+<a name="more-selected-work"></a>
 
 <table>
 <tr>
