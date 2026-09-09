@@ -21,6 +21,18 @@ I've contributed to experiences for **Universal Studios, Coca-Cola, Boeing, eBay
 
 ## Selected work
 
+### Coca-Cola Refresh Lounge · Universal Studios Orlando
+
+Interactive music kiosks with effects, volume, and sound mixers.
+
+<p align="center">
+  <a href="https://www.tiktok.com/@walruscarp/video/7678091109360307486">
+    <img src="assets/coca-cola-refresh-lounge.jpg" width="700" alt="Coca-Cola Refresh Lounge installation showing effects, volume, and sound mixer kiosks and illuminated wall displays." />
+  </a>
+</p>
+
+<p align="center"><a href="https://www.tiktok.com/@walruscarp/video/7678091109360307486"><b>Watch the experience on TikTok →</b></a><br/><sub>Video by @walruscarp</sub></p>
+
 <table>
 <tr>
 <td width="50%" valign="top">
