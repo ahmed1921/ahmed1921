@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-dark-fantasy.jpg" width="100%" alt="Ahmed Danish — Senior Unity Developer. Dark fantasy artwork with a crimson-cloaked knight, ruined cathedrals, and antique gold lettering." />
+  <img src="assets/profile-playable-worlds.jpg" width="100%" alt="Ahmed Danish — Senior Unity Developer. Ideas into playable worlds: an original platforming environment transitioning into wireframe level geometry." />
 </p>
 
 <h2 align="center">Make the first minute worth playing.<br/>Build the systems that carry the rest.</h2>
