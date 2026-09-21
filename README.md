@@ -1,23 +1,32 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Ahmed Danish — Senior Unity Developer. Games, immersive worlds, and real-world experiences." />
+  <img src="assets/profile-dark-fantasy.jpg" width="100%" alt="Ahmed Danish — Senior Unity Developer. Dark fantasy artwork with a crimson-cloaked knight, ruined cathedrals, and antique gold lettering." />
 </p>
+
+<h2 align="center">Make the first minute worth playing.<br/>Build the systems that carry the rest.</h2>
+
+<p align="center"><b>9+ years in Unity · Gameplay engineering · AR / VR · Mobile &amp; WebGL</b></p>
 
 <p align="center">
-  <a href="https://danishdev.com"><b>Portfolio</b></a> &nbsp; / &nbsp;
-  <a href="https://www.upwork.com/freelancers/~01279aea16e5d461a3"><b>Work with me</b></a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/ahmeddanisharif"><b>LinkedIn</b></a> &nbsp; / &nbsp;
-  <a href="mailto:ahmed1921@live.com"><b>Email</b></a>
+<a href="#selected-work"><b>EXPLORE MY WORK</b></a> &nbsp; / &nbsp;
+<a href="https://danishdev.com"><b>PORTFOLIO</b></a> &nbsp; / &nbsp;
+<a href="https://www.linkedin.com/in/ahmed-danish/"><b>LINKEDIN</b></a> &nbsp; / &nbsp;
+<a href="mailto:ahmed1921@live.com"><b>LET’S TALK</b></a>
 </p>
 
-<br/>
+---
 
-### I turn ideas into experiences people can play.
+### From “does it work?” to “one more round.”
 
-I'm **Ahmed Danish**, a Unity developer with **9+ years of experience** building games, AR/VR applications, and interactive installations. My work spans mobile screens, Quest headsets, browsers, and live attractions—with a focus on responsive gameplay, reliable systems, and performance on real hardware.
+I'm **Ahmed Danish**, a **Senior Unity Developer** building responsive gameplay, immersive worlds, and the systems behind them. I work across **2D / 3D games, mobile, WebGL, and XR**—from proving a core mechanic to improving an existing production build.
 
-I've contributed to experiences for **Universal Studios, Coca-Cola, Boeing, eBay, and AdventHealth**.
+**Combat that responds. Interfaces that stay out of the way. Builds that perform on the target device.** That's where I put my engineering effort.
 
-<br/>
+My project experience includes work for **Universal Studios, Coca-Cola, eBay, Boeing, and AdventHealth**.
+
+| Building a game? | Hiring for your team? |
+| :--- | :--- |
+| I can turn a brief into a playable prototype, develop the remaining features, or tackle performance and build issues. | I bring hands-on Unity and C# experience across gameplay, XR, reusable systems, and existing codebases. |
+| [Discuss your project →](https://www.upwork.com/freelancers/~01279aea16e5d461a3) | [Start a conversation →](mailto:ahmed1921@live.com) |
 
 ## Selected work
 
@@ -82,14 +91,12 @@ Interactive music kiosks with effects, volume, and sound mixers.
 <tr>
 <td width="50%" valign="top">
 <h3>01 / Immersive experiences</h3>
-<p><b>eBay Vault — VR</b><br/>Contributed to the award-winning Vault Trials experience.<br/><a href="https://shortyawards.com/16th/vault-trials">Explore the project →</a></p>
 <p><b>NEI VR — See What I See</b><br/>Healthcare VR experience exploring eye conditions.<br/><a href="https://play.google.com/store/apps/details?id=gov.nih.neivr">View the application →</a></p>
 <p><b>Boeing Touch</b><br/>Real-time AR airplane detection.</p>
 </td>
 <td width="50%" valign="top">
 <h3>02 / Games &amp; live attractions</h3>
 <p><b>USJ No-Limit Parade</b><br/>Performance optimization for a live attraction at Universal Studios Japan.</p>
-<p><b>Coca-Cola Refresh Lounge</b><br/>Interactive music kiosk at Universal Studios Orlando.</p>
 <p><b>WarStrike — FPS Shooter</b><br/>Combat systems, weapons, and HUD.<br/><a href="https://play.google.com/store/apps/details?id=com.gs360.warstrike.shooting.games">View the game →</a></p>
 </td>
 </tr>
@@ -177,8 +184,8 @@ Interactive music kiosks with effects, volume, and sound mixers.
 
 ---
 
-### Have a game or immersive experience in mind?
+### Your next milestone should be playable.
 
-Share the concept, target platform, and where development stands. I can help turn the next step into a playable build.
+Building something new, finishing an existing game, or hiring a Unity developer? Send me the platform, current build stage, and the next problem you need solved.
 
 **[Discuss your project →](mailto:ahmed1921@live.com)** &nbsp; [View portfolio](https://danishdev.com) &nbsp; [Find me on Upwork](https://www.upwork.com/freelancers/~01279aea16e5d461a3)
