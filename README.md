@@ -30,7 +30,7 @@ My project experience includes work for **Universal Studios, Coca-Cola, eBay, Bo
 
 ## Selected work
 
-<p align="center"><a href="#ebay-vault"><b>01 · eBay Vault</b></a> &nbsp; | &nbsp; <a href="#coca-cola"><b>02 · Coca-Cola</b></a> &nbsp; | &nbsp; <a href="#more-selected-work"><b>More work ↓</b></a></p>
+<p align="center"><a href="#ebay-vault"><b>01 · eBay Vault</b></a> &nbsp; | &nbsp; <a href="#coca-cola"><b>02 · Coca-Cola</b></a> &nbsp; | &nbsp; <a href="#play-doh-ground-control"><b>03 · Play-Doh</b></a> &nbsp; | &nbsp; <a href="#more-selected-work"><b>More work ↓</b></a></p>
 
 <a name="ebay-vault"></a>
 ### eBay Vault · VR experience
@@ -81,7 +81,38 @@ Interactive music kiosks with effects, volume, and sound mixers.
 
 </details>
 
-<p><a href="#ebay-vault">↑ Previous project: eBay Vault</a> &nbsp; | &nbsp; <a href="#more-selected-work">More work ↓</a></p>
+<p><a href="#ebay-vault">↑ Previous project: eBay Vault</a> &nbsp; | &nbsp; <a href="#play-doh-ground-control">Next project: Play-Doh ↓</a></p>
+
+---
+
+<a name="play-doh-ground-control"></a>
+### Play-Doh Ground Control · Connected play installation
+
+**Create a character. Bring it to life. Share the adventure.**
+
+An interactive multi-screen installation that turns kids’ imagination into a shared play experience. Across a cluster of interconnected game stations, children design their own characters and animals, then bring those creations to life across connected screens—where they can move, interact, and play together.
+
+<p align="center"><a href="assets/play-doh-ground-control-overview.jpg"><img src="assets/play-doh-ground-control-overview.jpg" width="800" alt="Play-Doh Ground Control installation with colorful interconnected character creation stations and game screens." /></a></p>
+
+<table>
+<tr>
+<td align="center" width="50%"><a href="assets/play-doh-ground-control-overview.jpg"><img src="assets/play-doh-ground-control-overview.jpg" height="140" alt="Open full installation overview" /></a><br/><b>01 · Connected play stations</b></td>
+<td align="center" width="50%"><a href="assets/play-doh-ground-control-detail.jpg"><img src="assets/play-doh-ground-control-detail.jpg" height="140" alt="Open character creation and game screen detail" /></a><br/><b>02 · Creations come to life</b></td>
+</tr>
+</table>
+
+<details>
+<summary><b>Expand both photos</b></summary>
+
+#### 01 · Connected play stations
+<img src="assets/play-doh-ground-control-overview.jpg" width="800" alt="Wide view of the Play-Doh Ground Control installation and its interconnected screens." />
+
+#### 02 · Creations come to life
+<img src="assets/play-doh-ground-control-detail.jpg" width="800" alt="Close view of character selection stations and colorful game environments." />
+
+</details>
+
+<p><a href="#coca-cola">↑ Previous project: Coca-Cola</a> &nbsp; | &nbsp; <a href="#more-selected-work">More work ↓</a> &nbsp; | &nbsp; <a href="#selected-work">Back to projects ↑</a></p>
 
 ---
 
