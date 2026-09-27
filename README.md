@@ -167,6 +167,7 @@ An interactive multi-screen installation that turns kids’ imagination into a s
 | **Rendering & performance** | URP / HDRP · Shader Graph · Jobs / Burst · Addressables |
 | **Connected experiences** | Photon · Netcode for GameObjects · PlayFab · Firebase · REST APIs |
 | **Workflow** | Git · Perforce · Jira · Editor tooling · Build pipelines |
+| **AI & intelligent experiences — learning focus** | LLM integration · Structured outputs & tool calling · AI NPC systems · Real-time voice (STT / TTS) · AI-assisted development · MCP & Unity editor automation · Unity Inference Engine / Sentis · ONNX · RAG, embeddings & semantic search · AI evaluation, guardrails & fallback design |
 
 <br/>
 
