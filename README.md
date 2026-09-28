@@ -4,7 +4,7 @@
 
 <h2 align="center">Make the first minute worth playing.<br/>Build the systems that carry the rest.</h2>
 
-<p align="center"><b>9+ years in Unity · Gameplay engineering · AR / VR · Mobile &amp; WebGL</b></p>
+<p align="center"><b>9+ years in Unity · Gameplay engineering · AR / VR · PC, mobile &amp; WebGL</b></p>
 
 <p align="center">
 <a href="#selected-work"><b>EXPLORE MY WORK</b></a> &nbsp; / &nbsp;
@@ -21,7 +21,7 @@ I'm **Ahmed Danish**, a **Senior Unity Developer** building responsive gameplay,
 
 **Combat that responds. Interfaces that stay out of the way. Builds that perform on the target device.** That's where I put my engineering effort.
 
-My project experience includes work for **Universal Studios, Coca-Cola, eBay, Boeing, and AdventHealth**.
+My project experience includes work for **Universal Studios, Coca-Cola, eBay, Boeing, AdventHealth, and SEVEN**.
 
 | Building a game? | Hiring for your team? |
 | :--- | :--- |
@@ -86,7 +86,7 @@ Interactive music kiosks with effects, volume, and sound mixers.
 ---
 
 <a name="play-doh-ground-control"></a>
-### Play-Doh Ground Control · Connected play installation
+### Play-Doh Ground Control · Doha Interactive
 
 **Create a character. Bring it to life. Share the adventure.**
 
@@ -127,21 +127,22 @@ An interactive multi-screen installation that turns kids’ imagination into a s
 </td>
 <td width="50%" valign="top">
 <h3>02 / Games &amp; live attractions</h3>
+<p><b>WarStrike — FPS Shooter</b><br/>Implemented combat, weapons, and HUD for a game with 10M+ downloads.<br/><a href="https://play.google.com/store/apps/details?id=com.gs360.warstrike.shooting.games">View the game →</a></p>
+<p><b>Car Wash — Kids’ game</b><br/>Developed a 2D car wash game with 10M+ downloads.</p>
 <p><b>USJ No-Limit Parade</b><br/>Performance optimization for a live attraction at Universal Studios Japan.</p>
-<p><b>WarStrike — FPS Shooter</b><br/>Combat systems, weapons, and HUD.<br/><a href="https://play.google.com/store/apps/details?id=com.gs360.warstrike.shooting.games">View the game →</a></p>
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>More projects</b> — puzzle RPGs, AR discovery, and interactive exhibits</summary>
+<summary><b>More projects</b> — RPGs, AR, installations, and gameplay</summary>
 
-- **Murasaki7** — Anime puzzle RPG with PvE / PvP.
-- **Upblock** — Hyper-casual gameplay with runtime mesh cutting.
-- **FinderShare** — Resort-based AR animal discovery. [Project website](https://www.findershare.com/)
-- **OUC Powerplay** — Interactive 3D grid-based educational game.
-- **Play-Doh Interactives** — Interactive installations for SEVEN, Saudi Arabia.
-- **Car Wash: Auto Repair Garage** — Vehicle repair and customization gameplay.
+- **Murasaki7** — Built puzzle mechanics and UI for a PvE / PvP RPG with more than 200 levels.
+- **OUC PowerPlay** — Built a 3D isometric game connecting buildings to the power grid.
+- **Upblock** — Built a 3D hypercasual game where players stack plane meshes.
+- **FinderShare** — Developed a resort-based AR adventure. [Project website](https://www.findershare.com/)
+- **Play-Doh Interactives** — Created interactive games for SEVEN entertainment destinations across Saudi Arabia.
+- **Operation Unity** — Built educational mini-games for AdventHealth.
 
 </details>
 
@@ -161,13 +162,15 @@ An interactive multi-screen installation that turns kids’ imagination into a s
 
 | Focus | Tools & technologies |
 | :--- | :--- |
-| **Core & platforms** | Unity · C# · Android · iOS · WebGL · Desktop |
-| **Immersive** | AR Foundation · OpenXR · Oculus / Meta Quest · Vuforia |
-| **Gameplay & UI** | DOTween · Spine 2D · TextMeshPro · Canvas · UI Toolkit |
-| **Rendering & performance** | URP / HDRP · Shader Graph · Jobs / Burst · Addressables |
-| **Connected experiences** | Photon · Netcode for GameObjects · PlayFab · Firebase · REST APIs |
-| **Workflow** | Git · Perforce · Jira · Editor tooling · Build pipelines |
-| **AI & intelligent experiences — learning focus** | LLM integration · Structured outputs & tool calling · AI NPC systems · Real-time voice (STT / TTS) · AI-assisted development · MCP & Unity editor automation · Unity Inference Engine / Sentis · ONNX · RAG, embeddings & semantic search · AI evaluation, guardrails & fallback design |
+| **Core & platforms** | Unity · C# · PC · Android · iOS · WebGL · 2D/3D development |
+| **Gameplay & UI** | Gameplay systems · UI Toolkit · Canvas · TextMeshPro · DOTween · Spine 2D · Editor tools |
+| **Architecture & quality** | Modular, event-driven systems · Unit/integration tests · Code reviews |
+| **XR** | AR Foundation · OpenXR · Meta Quest · Vuforia |
+| **Performance** | Unity Profiler · Frame Debugger · CPU/GPU and memory optimization · Addressables · URP/HDRP · Shader Graph · Jobs/Burst |
+| **Networking** | Netcode for GameObjects · Photon · PlayFab · Firebase · State synchronization · Client-server APIs |
+| **Workflow** | Git · Perforce · Jira · CI/CD builds · Technical documentation · Cross-platform deployment |
+| **Game AI & inference** | AI NPCs · Speech-to-text / text-to-speech · Unity Inference Engine (Sentis) · ONNX |
+| **LLM & tooling** | Tool calling · Structured outputs · RAG · Embeddings · Semantic search · Evaluation and fallback design · MCP and Unity editor automation |
 
 <br/>
 
@@ -199,16 +202,14 @@ An interactive multi-screen installation that turns kids’ imagination into a s
 </details>
 
 <details>
-<summary><b>Experience &amp; learning</b></summary>
+<summary><b>Selected experience &amp; development</b></summary>
 
-| Studio | Period |
-| :--- | :--- |
-| X Studios · Orlando | 2023–Present |
-| Open Dive · New York | 2022–2023 |
-| NSTBG Manila Studio | 2020–2022 |
-| Game District · Lahore | 2019 |
-| Malistic Studio · Lahore | 2018 |
-| Appricot Studio · Lahore | 2016–2018 |
+| Role | Organization | Period |
+| :--- | :--- | :--- |
+| Senior Unity Developer | X Studios · Orlando | Mar 2023–Present |
+| Senior Unity Developer | Upwork · Independent client projects | — |
+| Senior Unity Developer | NSTBG Manila Studio | Jun 2020–Jun 2022 |
+| Senior Game Developer | Game District · Lahore | Mar–Dec 2019 |
 
 **Courses & certifications:** RPG Core Combat Creator · Programming Design Patterns for Unity · Creating an RPG Game in Unity · Multiplayer VR Development with Unity · VR Development Fundamentals (Oculus).
 
