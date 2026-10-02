@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="#skills-reel"><b>SKILLS REEL</b></a> &nbsp; / &nbsp;
   <a href="#selected-work"><b>SELECTED WORK</b></a> &nbsp; / &nbsp;
   <a href="#explore-the-code"><b>EXPLORE THE CODE</b></a> &nbsp; / &nbsp;
   <a href="https://danishdev.com"><b>PORTFOLIO</b></a> &nbsp; / &nbsp;
@@ -10,6 +11,21 @@
 </p>
 
 I'm **Ahmed Danish**, a **Senior Unity Developer** working across **2D / 3D games, mobile, WebGL and XR**. I build responsive gameplay, reusable systems and immersive experiences, from the first playable prototype to optimizing a production build.
+
+<!-- SKILLS-REEL:START -->
+## Skills reel
+
+**25 seconds of Unity, XR and interactive experiences.**
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/ahmed1921/ahmed1921/main/assets/ahmed-danish-skills-reel-25s.mp4">
+    <img src="assets/skills-reel-preview.gif" width="360" alt="Ahmed Danish's 25-second skills reel: 9+ years in Unity development, gameplay, AR/VR, multiplayer, performance, selected projects and Upwork client results." />
+  </a>
+</p>
+
+<p align="center"><a href="https://raw.githubusercontent.com/ahmed1921/ahmed1921/main/assets/ahmed-danish-skills-reel-25s.mp4"><b>View or download the full 1080p reel →</b></a></p>
+
+<!-- SKILLS-REEL:END -->
 
 <p align="center"><img src="assets/about.svg" width="100%" alt="What I build: gameplay, AR/VR, live attractions and connected screens. How I build: prototype, iterate and ship." /></p>
 
