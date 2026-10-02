@@ -28,36 +28,30 @@
 <p><a href="https://raw.githubusercontent.com/ahmed1921/ahmed1921/main/assets/ahmed-danish-skills-reel-25s.mp4"><b>Download the silent MP4 →</b></a></p>
 </td>
 </tr>
-<tr>
-<td width="62%" valign="top">
-<h3>9+ years building games &amp; XR</h3>
-<p><b>Senior Unity Developer · X Studios</b><br/>
-Games, AR/VR and interactive attractions for PC, mobile and WebGL.</p>
-
-<p><b>Core expertise</b><br/>
-Unity · C# · Gameplay &amp; UI<br/>
-AR Foundation · OpenXR · Meta Quest<br/>
-Multiplayer · PlayFab · Firebase<br/>
-Performance optimization · AI tooling</p>
-</td>
-<td width="38%" valign="top">
-<p><b>Selected work</b><br/>
-<a href="#ebay-vault">eBay Vault Trials</a> — VR gameplay<br/>
-<a href="#coca-cola">Coca-Cola Refresh Lounge</a> — music kiosks<br/>
-<a href="#more-work">Universal Studios Japan</a> — optimization</p>
-
-<p><b>Previous roles</b><br/>
-NSTBG Manila Studio · 2020–2022<br/>
-Game District · 2019</p>
-
-<p><b>Top Rated on Upwork</b><br/>
-100% Job Success · 57 jobs · ~5,700 hours</p>
-
-<p><a href="https://danishdev.com"><b>Explore my portfolio →</b></a><br/>
-<a href="mailto:ahmed1921@live.com">Let’s talk</a></p>
-</td>
-</tr>
 </table>
+
+<!-- EXPERIENCE-SNAPSHOT:START -->
+<p align="center">
+  <img src="assets/experience-career.svg" width="360" alt="9+ years in games and XR. Senior Unity Developer at X Studios. Previous roles at NSTBG Manila Studio and Game District." />
+  <img src="assets/experience-expertise.svg" width="360" alt="Core expertise: Unity and C#, gameplay and UI, AR/VR, multiplayer, performance optimization and AI tooling." />
+</p>
+
+<p align="center">
+  <a href="#ebay-vault"><img src="assets/experience-ebay.svg" width="240" alt="eBay Vault Trials — VR gameplay. View selected work." /></a>
+  <a href="#coca-cola"><img src="assets/experience-coca-cola.svg" width="240" alt="Coca-Cola Refresh Lounge — interactive music kiosks. View selected work." /></a>
+  <a href="#more-work"><img src="assets/experience-usj.svg" width="240" alt="Universal Studios Japan — performance optimization. View selected work." /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01279aea16e5d461a3"><img src="assets/experience-upwork.svg" width="360" alt="Top Rated on Upwork with 100% Job Success." /></a>
+  <a href="https://www.upwork.com/freelancers/~01279aea16e5d461a3"><img src="assets/experience-results.svg" width="360" alt="Upwork results: 57 jobs and approximately 5,700 hours worked." /></a>
+</p>
+
+<p align="center">
+  <a href="https://danishdev.com"><img src="assets/nav-portfolio.svg" width="118" height="44" alt="Explore my portfolio" /></a>
+  <a href="mailto:ahmed1921@live.com"><img src="assets/nav-contact.svg" width="130" height="44" alt="Let’s talk" /></a>
+</p>
+<!-- EXPERIENCE-SNAPSHOT:END -->
 
 <!-- SKILLS-REEL:END -->
 
