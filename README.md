@@ -10,20 +10,46 @@
   <a href="mailto:ahmed1921@live.com"><b>LET’S TALK</b></a>
 </p>
 
-I'm **Ahmed Danish**, a **Senior Unity Developer** working across **2D / 3D games, mobile, WebGL and XR**. I build responsive gameplay, reusable systems and immersive experiences, from the first playable prototype to optimizing a production build.
-
 <!-- SKILLS-REEL:START -->
 ## Skills reel
 
-**25 seconds of Unity, XR and interactive experiences.**
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
+<h3>9+ years building games &amp; XR</h3>
+<p><b>Senior Unity Developer · X Studios</b><br/>
+Games, AR/VR and interactive attractions for PC, mobile and WebGL.</p>
 
-<p align="center">
-  <a href="https://raw.githubusercontent.com/ahmed1921/ahmed1921/main/assets/ahmed-danish-skills-reel-25s.mp4">
-    <img src="assets/skills-reel-preview.gif" width="360" alt="Ahmed Danish's 25-second skills reel: 9+ years in Unity development, gameplay, AR/VR, multiplayer, performance, selected projects and Upwork client results." />
-  </a>
-</p>
+<p><b>Core expertise</b><br/>
+Unity · C# · Gameplay &amp; UI<br/>
+AR Foundation · OpenXR · Meta Quest<br/>
+Multiplayer · PlayFab · Firebase<br/>
+Performance optimization · AI tooling</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/ahmed1921/ahmed1921/main/assets/ahmed-danish-skills-reel-25s.mp4"><b>View or download the full 1080p reel →</b></a></p>
+<p><b>Selected work</b><br/>
+<a href="#ebay-vault">eBay Vault Trials</a> — VR gameplay<br/>
+<a href="#coca-cola">Coca-Cola Refresh Lounge</a> — music kiosks<br/>
+<a href="#more-work">Universal Studios Japan</a> — optimization</p>
+
+<p><b>Previous roles</b><br/>
+NSTBG Manila Studio · 2020–2022<br/>
+Game District · 2019</p>
+
+<p><b>Top Rated on Upwork</b><br/>
+100% Job Success · 57 jobs · ~5,700 hours</p>
+
+<p><a href="https://danishdev.com"><b>Explore my portfolio →</b></a><br/>
+<a href="mailto:ahmed1921@live.com">Let’s talk</a></p>
+</td>
+<td width="38%" align="center" valign="top">
+<h3>25-second skills reel</h3>
+<a href="https://raw.githubusercontent.com/ahmed1921/ahmed1921/main/assets/ahmed-danish-skills-reel-25s.mp4">
+  <img src="assets/skills-reel-preview.gif" width="280" alt="Ahmed Danish's silent portrait reel showcasing Unity development, XR, selected projects and client results." />
+</a>
+<p><a href="https://raw.githubusercontent.com/ahmed1921/ahmed1921/main/assets/ahmed-danish-skills-reel-25s.mp4"><b>Download the silent MP4 →</b></a></p>
+</td>
+</tr>
+</table>
 
 <!-- SKILLS-REEL:END -->
 
