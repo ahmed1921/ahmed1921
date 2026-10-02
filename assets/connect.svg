@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="253" viewBox="0 0 1280 253" role="img" aria-label="Connect with Ahmed Danish through his portfolio, email, LinkedIn or Upwork"><title>Connect with Ahmed Danish through his portfolio, email, LinkedIn or Upwork</title><defs>
+      <linearGradient id="accent"><stop stop-color="#35d7ed"/><stop offset=".55" stop-color="#b695ff"/><stop offset="1" stop-color="#fa8dc4"/></linearGradient>
+      <linearGradient id="surface" x2="1" y2="1"><stop stop-color="#18213a"/><stop offset="1" stop-color="#0c0f1c"/></linearGradient>
+      <radialGradient id="halo"><stop stop-color="#614aa0" stop-opacity=".25"/><stop offset="1" stop-color="#614aa0" stop-opacity="0"/></radialGradient>
+      <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#56617c" opacity=".16"/></pattern>
+    </defs>
+    <style>
+      .float{animation:float 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+      .sway{animation:sway 7s ease-in-out infinite;transform-origin:210px 0px}
+      .pulse{animation:pulse 3s ease-in-out infinite}
+      .orbit{animation:orbit 22s linear infinite;transform-box:fill-box;transform-origin:center}
+      .trace{stroke-dasharray:14 12;animation:trace 7s linear infinite}
+      .sweep{animation:sweep 5s ease-in-out infinite}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
+      @keyframes sway{0%,100%{transform:rotate(-1.2deg)}50%{transform:rotate(1.2deg)}}
+      @keyframes pulse{0%,100%{opacity:1}50%{opacity:.38}}
+      @keyframes orbit{to{transform:rotate(360deg)}}
+      @keyframes trace{to{stroke-dashoffset:-260}}
+      @keyframes sweep{0%,100%{opacity:.35}50%{opacity:1}}
+      @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+    </style><rect x="1" y="1" width="1278" height="251" rx="26" fill="#0c0f1c" stroke="#2a324c" /><rect x="2" y="2" width="1276" height="249" rx="25" fill="url(#dots)"/><text x="42" y="48" fill="#35d7ed" font-family="DejaVu Sans Mono, monospace" font-size="14" font-weight="600" >05 / LET’S CONNECT</text><text x="42" y="107" fill="#eef0fb" font-family="DejaVu Sans, Arial, sans-serif" font-size="39" font-weight="700" >Your next milestone should be playable.</text><text x="42" y="154" fill="#a4aec7" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400" >New prototype, existing game or a Unity role — tell me what you’re building.</text><text x="42" y="212" fill="#35d7ed" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="600" >danishdev.com</text><text x="354" y="212" fill="#b695ff" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="600" >ahmed1921@live.com</text><path d="M1160 86H1210L1189 65 M1210 86L1189 107" fill="none" stroke="#35d7ed" stroke-width="4" class="pulse"/></svg>

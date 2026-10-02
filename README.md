@@ -1,164 +1,22 @@
 <p align="center">
-  <img src="assets/profile-playable-worlds.jpg" width="100%" alt="Ahmed Danish — Senior Unity Developer. Ideas into playable worlds: an original platforming environment transitioning into wireframe level geometry." />
+  <img src="assets/hero.svg" width="100%" alt="Ahmed Danish — Senior Unity Developer. 9+ years building games and XR experiences." />
 </p>
-
-<h2 align="center">Make the first minute worth playing.<br/>Build the systems that carry the rest.</h2>
-
-<p align="center"><b>9+ years in Unity · Gameplay engineering · AR / VR · PC, mobile &amp; WebGL</b></p>
 
 <p align="center">
-<a href="#selected-work"><b>EXPLORE MY WORK</b></a> &nbsp; / &nbsp;
-<a href="https://danishdev.com"><b>PORTFOLIO</b></a> &nbsp; / &nbsp;
-<a href="https://www.linkedin.com/in/ahmed-danish/"><b>LINKEDIN</b></a> &nbsp; / &nbsp;
-<a href="mailto:ahmed1921@live.com"><b>LET’S TALK</b></a>
+  <a href="#selected-work"><b>SELECTED WORK</b></a> &nbsp; / &nbsp;
+  <a href="#explore-the-code"><b>EXPLORE THE CODE</b></a> &nbsp; / &nbsp;
+  <a href="https://danishdev.com"><b>PORTFOLIO</b></a> &nbsp; / &nbsp;
+  <a href="mailto:ahmed1921@live.com"><b>LET’S TALK</b></a>
 </p>
 
----
+I'm **Ahmed Danish**, a **Senior Unity Developer** working across **2D / 3D games, mobile, WebGL and XR**. I build responsive gameplay, reusable systems and immersive experiences, from the first playable prototype to optimizing a production build.
 
-### From “does it work?” to “one more round.”
+<p align="center"><img src="assets/about.svg" width="100%" alt="What I build: gameplay, AR/VR, live attractions and connected screens. How I build: prototype, iterate and ship." /></p>
 
-I'm **Ahmed Danish**, a **Senior Unity Developer** building responsive gameplay, immersive worlds, and the systems behind them. I work across **2D / 3D games, mobile, WebGL, and XR**—from proving a core mechanic to improving an existing production build.
-
-**Combat that responds. Interfaces that stay out of the way. Builds that perform on the target device.** That's where I put my engineering effort.
-
-My project experience includes work for **Universal Studios, Coca-Cola, eBay, Boeing, AdventHealth, and SEVEN**.
-
-| Building a game? | Hiring for your team? |
-| :--- | :--- |
-| I can turn a brief into a playable prototype, develop the remaining features, or tackle performance and build issues. | I bring hands-on Unity and C# experience across gameplay, XR, reusable systems, and existing codebases. |
-| [Discuss your project →](https://www.upwork.com/freelancers/~01279aea16e5d461a3) | [Start a conversation →](mailto:ahmed1921@live.com) |
-
-## Selected work
-
-<p align="center"><a href="#ebay-vault"><b>01 · eBay Vault</b></a> &nbsp; | &nbsp; <a href="#coca-cola"><b>02 · Coca-Cola</b></a> &nbsp; | &nbsp; <a href="#play-doh-ground-control"><b>03 · Play-Doh</b></a> &nbsp; | &nbsp; <a href="#more-selected-work"><b>More work ↓</b></a></p>
-
-<a name="ebay-vault"></a>
-### eBay Vault · VR experience
-
-Contributed to the award-winning Vault Trials experience. Explore the gameplay and physical card-scanning setup below.
-
-<p align="center"><a href="assets/ebay-vault-prized-possessions.jpg"><img src="assets/ebay-vault-prized-possessions.jpg" width="800" alt="eBay Vault VR: Prized Possessions card selection gameplay." /></a></p>
-
-<table>
-<tr>
-<td align="center" width="33%"><a href="assets/ebay-vault-prized-possessions.jpg"><img src="assets/ebay-vault-prized-possessions.jpg" height="110" alt="Open Prized Possessions screenshot" /></a><br/><b>01 · Prized Possessions</b></td>
-<td align="center" width="33%"><a href="assets/ebay-vault-card-scanning.jpg"><img src="assets/ebay-vault-card-scanning.jpg" height="110" alt="Open physical card scanning photo" /></a><br/><b>02 · Card scanning</b></td>
-<td align="center" width="33%"><a href="assets/ebay-vault-pin-the-price.jpg"><img src="assets/ebay-vault-pin-the-price.jpg" height="110" alt="Open Pin the Price screenshot" /></a><br/><b>03 · Pin the Price</b></td>
-</tr>
-</table>
+<p align="center"><img src="assets/stack.svg" width="100%" alt="Engineering toolkit: Unity, C#, gameplay, XR, performance, networking, workflow and AI." /></p>
 
 <details>
-<summary><b>Expand all 3 photos</b></summary>
-
-#### 01 · Prized Possessions
-<img src="assets/ebay-vault-prized-possessions.jpg" width="800" alt="Prized Possessions VR gameplay." />
-
-#### 02 · Card scanning
-<img src="assets/ebay-vault-card-scanning.jpg" width="318" alt="Physical collectible card being scanned." />
-
-#### 03 · Pin the Price
-<img src="assets/ebay-vault-pin-the-price.jpg" width="800" alt="Pin the Price VR gameplay." />
-
-</details>
-
-<p><a href="https://shortyawards.com/16th/vault-trials"><b>Explore the award-winning project →</b></a> &nbsp; | &nbsp; <a href="#coca-cola">Next project: Coca-Cola ↓</a></p>
-
----
-
-<a name="coca-cola"></a>
-### Coca-Cola Refresh Lounge · Universal Studios Orlando
-
-Interactive music kiosks with effects, volume, and sound mixers.
-
-<p align="center"><a href="https://www.tiktok.com/@walruscarp/video/7678091109360307486"><img src="assets/coca-cola-refresh-lounge.jpg" width="560" alt="Coca-Cola Refresh Lounge photo gallery: mixer kiosks and illuminated wall displays. Click to watch the TikTok video." /></a></p>
-
-<p align="center"><a href="https://www.tiktok.com/@walruscarp/video/7678091109360307486"><b>Watch video →</b></a> &nbsp; | &nbsp; <a href="assets/coca-cola-refresh-lounge.jpg">Open full-size photo</a><br/><sub>Video by @walruscarp</sub></p>
-
-<details>
-<summary><b>Expand installation photo</b></summary>
-
-<img src="assets/coca-cola-refresh-lounge.jpg" width="800" alt="Full installation collage showing effects, volume, and sound mixer kiosks and wall displays." />
-
-</details>
-
-<p><a href="#ebay-vault">↑ Previous project: eBay Vault</a> &nbsp; | &nbsp; <a href="#play-doh-ground-control">Next project: Play-Doh ↓</a></p>
-
----
-
-<a name="play-doh-ground-control"></a>
-### Play-Doh Ground Control · Doha Interactive
-
-**Create a character. Bring it to life. Share the adventure.**
-
-An interactive multi-screen installation that turns kids’ imagination into a shared play experience. Across a cluster of interconnected game stations, children design their own characters and animals, then bring those creations to life across connected screens—where they can move, interact, and play together.
-
-<p align="center"><a href="assets/play-doh-ground-control-overview.jpg"><img src="assets/play-doh-ground-control-overview.jpg" width="800" alt="Play-Doh Ground Control installation with colorful interconnected character creation stations and game screens." /></a></p>
-
-<table>
-<tr>
-<td align="center" width="50%"><a href="assets/play-doh-ground-control-overview.jpg"><img src="assets/play-doh-ground-control-overview.jpg" height="140" alt="Open full installation overview" /></a><br/><b>01 · Connected play stations</b></td>
-<td align="center" width="50%"><a href="assets/play-doh-ground-control-detail.jpg"><img src="assets/play-doh-ground-control-detail.jpg" height="140" alt="Open character creation and game screen detail" /></a><br/><b>02 · Creations come to life</b></td>
-</tr>
-</table>
-
-<details>
-<summary><b>Expand both photos</b></summary>
-
-#### 01 · Connected play stations
-<img src="assets/play-doh-ground-control-overview.jpg" width="800" alt="Wide view of the Play-Doh Ground Control installation and its interconnected screens." />
-
-#### 02 · Creations come to life
-<img src="assets/play-doh-ground-control-detail.jpg" width="800" alt="Close view of character selection stations and colorful game environments." />
-
-</details>
-
-<p><a href="#coca-cola">↑ Previous project: Coca-Cola</a> &nbsp; | &nbsp; <a href="#more-selected-work">More work ↓</a> &nbsp; | &nbsp; <a href="#selected-work">Back to projects ↑</a></p>
-
----
-
-<a name="more-selected-work"></a>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>01 / Immersive experiences</h3>
-<p><b>NEI VR — See What I See</b><br/>Healthcare VR experience exploring eye conditions.<br/><a href="https://play.google.com/store/apps/details?id=gov.nih.neivr">View the application →</a></p>
-<p><b>Boeing Touch</b><br/>Real-time AR airplane detection.</p>
-</td>
-<td width="50%" valign="top">
-<h3>02 / Games &amp; live attractions</h3>
-<p><b>WarStrike — FPS Shooter</b><br/>Implemented combat, weapons, and HUD for a game with 10M+ downloads.<br/><a href="https://play.google.com/store/apps/details?id=com.gs360.warstrike.shooting.games">View the game →</a></p>
-<p><b>Car Wash — Kids’ game</b><br/>Developed a 2D car wash game with 10M+ downloads.</p>
-<p><b>USJ No-Limit Parade</b><br/>Performance optimization for a live attraction at Universal Studios Japan.</p>
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>More projects</b> — RPGs, AR, installations, and gameplay</summary>
-
-- **Murasaki7** — Built puzzle mechanics and UI for a PvE / PvP RPG with more than 200 levels.
-- **OUC PowerPlay** — Built a 3D isometric game connecting buildings to the power grid.
-- **Upblock** — Built a 3D hypercasual game where players stack plane meshes.
-- **FinderShare** — Developed a resort-based AR adventure. [Project website](https://www.findershare.com/)
-- **Play-Doh Interactives** — Created interactive games for SEVEN entertainment destinations across Saudi Arabia.
-- **Operation Unity** — Built educational mini-games for AdventHealth.
-
-</details>
-
-<br/>
-
-## What I bring to a project
-
-| Gameplay that feels right | Systems that hold up | Performance that ships |
-| :--- | :--- | :--- |
-| 2D / 3D mechanics, combat, UI, and progression | Reusable architecture, editor tools, multiplayer, and API integrations | Profiling, asset delivery, rendering, and device-specific optimization |
-
-**My approach:** establish the core loop, get a playable build into your hands early, then refine the feel and performance through iteration.
-
-<br/>
-
-## Engineering toolkit
+<summary><b>Full engineering toolkit</b></summary>
 
 | Focus | Tools & technologies |
 | :--- | :--- |
@@ -172,37 +30,116 @@ An interactive multi-screen installation that turns kids’ imagination into a s
 | **Game AI & inference** | AI NPCs · Speech-to-text / text-to-speech · Unity Inference Engine (Sentis) · ONNX |
 | **LLM & tooling** | Tool calling · Structured outputs · RAG · Embeddings · Semantic search · Evaluation and fallback design · MCP and Unity editor automation |
 
+</details>
+
 <br/>
 
-## Explore the code
+<p align="center"><img src="assets/developer-id.svg" width="100%" alt="Ahmed Danish developer ID: Senior Unity Developer at X Studios, based in Pakistan. Project experience for Universal Studios, Coca-Cola, eBay, Boeing, AdventHealth and SEVEN." /></p>
 
-[**School VR Multiplayer**](https://github.com/ahmed1921/School-VR-Multiplayer) &nbsp; · &nbsp;
-[**Color Fill 3D**](https://github.com/ahmed1921/Color-Fill-3D) &nbsp; · &nbsp;
-[**SphereTest**](https://github.com/ahmed1921/SphereTest) &nbsp; · &nbsp;
-[**pillpusher**](https://github.com/ahmed1921/pillpusher)
+## Selected work
+
+<p align="center">
+  <a href="#ebay-vault"><b>eBay Vault</b></a> &nbsp; / &nbsp;
+  <a href="#coca-cola"><b>Coca-Cola</b></a> &nbsp; / &nbsp;
+  <a href="#play-doh-ground-control"><b>Play-Doh</b></a> &nbsp; / &nbsp;
+  <a href="#more-work"><b>More work</b></a>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a name="ebay-vault"></a>
+<h3>eBay Vault · VR experience</h3>
+<a href="https://shortyawards.com/16th/vault-trials"><img src="assets/ebay-vault-prized-possessions.jpg" width="100%" alt="eBay Vault VR card selection gameplay." /></a>
+<p>Contributed to the award-winning <b>Vault Trials</b> experience, with VR gameplay and physical card scanning.</p>
+<a href="https://shortyawards.com/16th/vault-trials"><b>Explore the project →</b></a>
+</td>
+<td width="50%" valign="top">
+<a name="coca-cola"></a>
+<h3>Coca-Cola Refresh Lounge</h3>
+<a href="https://www.tiktok.com/@walruscarp/video/7678091109360307486"><img src="assets/coca-cola-refresh-lounge.jpg" width="100%" alt="Music mixer kiosks at the Coca-Cola Refresh Lounge at Universal Studios Orlando." /></a>
+<p>Interactive music kiosks at <b>Universal Studios Orlando</b>, with effects, volume and sound mixers.</p>
+<a href="https://www.tiktok.com/@walruscarp/video/7678091109360307486"><b>Watch the installation →</b></a><br/>
+<sub>Video by @walruscarp</sub>
+</td>
+</tr>
+</table>
 
 <details>
-<summary>All public repository cards · automatically updated</summary>
+<summary><b>eBay Vault photo gallery</b> — gameplay and physical card scanning</summary>
 
-<!-- REPO-GRID:START -->
-<p align="center">
-<a href="https://github.com/ahmed1921/ahmed1921"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed1921&repo=ahmed1921&theme=tokyonight&hide_border=true" alt="ahmed1921" /></a>
-&nbsp;
-<a href="https://github.com/ahmed1921/SphereTest"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed1921&repo=SphereTest&theme=tokyonight&hide_border=true" alt="SphereTest" /></a>
-&nbsp;
-<a href="https://github.com/ahmed1921/pillpusher"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed1921&repo=pillpusher&theme=tokyonight&hide_border=true" alt="pillpusher" /></a>
-<br/><br/>
-<a href="https://github.com/ahmed1921/School-VR-Multiplayer"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed1921&repo=School-VR-Multiplayer&theme=tokyonight&hide_border=true" alt="School-VR-Multiplayer" /></a>
-&nbsp;
-<a href="https://github.com/ahmed1921/Color-Fill-3D"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed1921&repo=Color-Fill-3D&theme=tokyonight&hide_border=true" alt="Color-Fill-3D" /></a>
-&nbsp;
-</p>
-<!-- REPO-GRID:END -->
+<table>
+<tr>
+<td width="33%" align="center"><a href="assets/ebay-vault-prized-possessions.jpg"><img src="assets/ebay-vault-prized-possessions.jpg" width="100%" alt="Prized Possessions VR gameplay." /></a><br/><b>Prized Possessions</b></td>
+<td width="33%" align="center"><a href="assets/ebay-vault-card-scanning.jpg"><img src="assets/ebay-vault-card-scanning.jpg" height="180" alt="Physical collectible card scanning." /></a><br/><b>Card scanning</b></td>
+<td width="33%" align="center"><a href="assets/ebay-vault-pin-the-price.jpg"><img src="assets/ebay-vault-pin-the-price.jpg" width="100%" alt="Pin the Price VR gameplay." /></a><br/><b>Pin the Price</b></td>
+</tr>
+</table>
 
 </details>
 
+<a name="play-doh-ground-control"></a>
+
+### Play-Doh Ground Control · Doha Interactive
+
+**Create a character. Bring it to life. Share the adventure.**
+
+A cluster of interconnected game stations where kids design their own characters and animals, then bring those creations to life across shared game screens.
+
+<p align="center"><a href="assets/play-doh-ground-control-overview.jpg"><img src="assets/play-doh-ground-control-overview.jpg" width="100%" alt="Play-Doh Ground Control interconnected character creation stations and game screens." /></a></p>
+
 <details>
-<summary><b>Selected experience &amp; development</b></summary>
+<summary><b>See the installation up close</b></summary>
+
+<p align="center"><a href="assets/play-doh-ground-control-detail.jpg"><img src="assets/play-doh-ground-control-detail.jpg" width="100%" alt="Play-Doh character creation stations and connected game environments." /></a></p>
+
+</details>
+
+<a name="more-work"></a>
+
+### More games, XR and installations
+
+| Project | My contribution / experience |
+| :--- | :--- |
+| **WarStrike — FPS Shooter** | Implemented combat, weapons and HUD for a game with **10M+ downloads**. [View game](https://play.google.com/store/apps/details?id=com.gs360.warstrike.shooting.games) |
+| **Car Wash** | Developed a 2D kids’ car wash game with **10M+ downloads**. |
+| **NEI VR — See What I See** | Healthcare VR experience exploring eye conditions. [View application](https://play.google.com/store/apps/details?id=gov.nih.neivr) |
+| **USJ No-Limit Parade** | Performance optimization for a live attraction at Universal Studios Japan. |
+| **Boeing Touch** | Real-time AR airplane detection. |
+| **Murasaki7** | Built puzzle mechanics and UI for a PvE / PvP RPG with 200+ levels. |
+| **OUC PowerPlay** | Built a 3D isometric game connecting buildings to the power grid. |
+| **Upblock** | Built a 3D hypercasual game where players stack plane meshes. |
+| **FinderShare** | Developed a resort-based AR adventure. [Project website](https://www.findershare.com/) |
+| **Play-Doh Interactives** | Created interactive games for SEVEN entertainment destinations in Saudi Arabia. |
+| **Operation Unity** | Built educational mini-games for AdventHealth. |
+
+## Explore the code
+
+Production client work and public repositories cover different parts of my work. Here are the public projects you can explore directly.
+
+<p align="center"><img src="assets/github-snapshot.svg" width="100%" alt="Public GitHub repository statistics, refreshed daily." /></p>
+
+<!-- REPO-GRID:START -->
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/ahmed1921/School-VR-Multiplayer"><img src="assets/repo-d1c5f7f670fa.svg" width="100%" alt="School-VR-Multiplayer" /></a></td>
+<td width="50%"><a href="https://github.com/ahmed1921/Color-Fill-3D"><img src="assets/repo-aaefde8ffbe0.svg" width="100%" alt="Color-Fill-3D" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/ahmed1921/pillpusher"><img src="assets/repo-6b3463d54916.svg" width="100%" alt="pillpusher" /></a></td>
+<td width="50%"><a href="https://github.com/ahmed1921/SphereTest"><img src="assets/repo-e6c6a7256be2.svg" width="100%" alt="SphereTest" /></a></td>
+</tr>
+</table>
+<!-- REPO-GRID:END -->
+
+<p align="center"><a href="https://github.com/ahmed1921?tab=repositories"><b>Browse all repositories →</b></a></p>
+
+## Contribution city
+
+<p align="center"><img src="assets/contribution-city.svg" width="100%" alt="3D city showing my real GitHub contribution calendar over the last 12 months." /></p>
+
+<details>
+<summary><b>Experience &amp; development</b></summary>
 
 | Role | Organization | Period |
 | :--- | :--- | :--- |
@@ -215,10 +152,13 @@ An interactive multi-screen installation that turns kids’ imagination into a s
 
 </details>
 
----
+<br/>
 
-### Your next milestone should be playable.
+<p align="center"><a href="mailto:ahmed1921@live.com"><img src="assets/connect.svg" width="100%" alt="Your next milestone should be playable. Connect with Ahmed Danish." /></a></p>
 
-Building something new, finishing an existing game, or hiring a Unity developer? Send me the platform, current build stage, and the next problem you need solved.
-
-**[Discuss your project →](mailto:ahmed1921@live.com)** &nbsp; [View portfolio](https://danishdev.com) &nbsp; [Find me on Upwork](https://www.upwork.com/freelancers/~01279aea16e5d461a3)
+<p align="center">
+  <a href="https://danishdev.com"><b>PORTFOLIO</b></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/ahmed-danish/"><b>LINKEDIN</b></a> &nbsp; / &nbsp;
+  <a href="https://www.upwork.com/freelancers/~01279aea16e5d461a3"><b>UPWORK</b></a> &nbsp; / &nbsp;
+  <a href="mailto:ahmed1921@live.com"><b>EMAIL</b></a>
+</p>

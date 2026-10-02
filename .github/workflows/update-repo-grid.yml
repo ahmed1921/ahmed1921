@@ -1,11 +1,20 @@
-name: Update Repo Grid
+name: Refresh profile dashboard
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 4 * * *"  # daily
   push:
-    branches: ["main", "master"]
+    branches: ["main"]
+    paths:
+      - "README.md"
+      - "assets/**"
+      - ".github/scripts/**"
+      - ".github/workflows/update-repo-grid.yml"
+
+concurrency:
+  group: profile-dashboard
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -22,23 +31,18 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Generate repo grid
+      - name: Refresh repository cards and contribution city
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
-          COLUMNS: "3"
-          CARD_WIDTH: "360"
-          THEME: "tokyonight"
-          SORT: "updated"          # updated | stars | name
-          EXCLUDE_FORKS: "true"
-          EXCLUDE_ARCHIVED: "true"
-          MAX_REPOS: "999"
-        run: python .github/scripts/generate_repo_grid.py
+        run: python .github/scripts/refresh_profile.py
 
       - name: Commit changes
         run: |
-          git config user.name "repo-grid-bot"
-          git config user.email "repo-grid-bot@users.noreply.github.com"
-          git add README.md
-          git commit -m "chore: auto-update repo grid" || echo "No changes"
-          git push
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: refresh profile dashboard and contribution city"
+            git push
+          fi
