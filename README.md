@@ -16,7 +16,7 @@
 <table width="100%">
 <tr>
 <td width="62%" valign="top">
-<img src="assets/about-stacked.svg" width="440" alt="What I build: gameplay worth coming back to. How I build: from prototype to production. Two visual cards stacked vertically." />
+<img src="assets/about-stacked.svg?v=characters-1" width="440" alt="Two visual cards stacked vertically, with an animated gameplay character and a developer typing at a laptop." />
 </td>
 <td width="38%" align="center" valign="top">
 <h3>25-second skills reel</h3>
