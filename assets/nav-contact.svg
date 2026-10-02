@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="44" viewBox="0 0 130 44" role="img" aria-label="LET’S TALK">
+  <title>LET’S TALK</title>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#182238"/><stop offset="1" stop-color="#101725"/></linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="129" height="43" rx="10" fill="url(#panel)" stroke="#344159"/>
+  <path d="M11 1h108" stroke="#ffffff" stroke-opacity=".08"/>
+  <rect x="9" y="9" width="27" height="26" rx="7" fill="#bb9dff" fill-opacity=".09"/>
+  <g color="#bb9dff" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16.5 16.5h12a1.5 1.5 0 0 1 1.5 1.5v8a1.5 1.5 0 0 1-1.5 1.5H21l-4.5 3v-3A1.5 1.5 0 0 1 15 26v-8a1.5 1.5 0 0 1 1.5-1.5Z"/><path d="M19 21.5h7M19 24h4"/></g>
+  <text x="44" y="26" fill="#eef3fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="650" letter-spacing=".2">LET’S TALK</text>
+</svg>

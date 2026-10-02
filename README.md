@@ -2,13 +2,15 @@
   <img src="assets/hero.svg" width="100%" alt="Ahmed Danish — Senior Unity Developer. 9+ years building games and XR experiences." />
 </p>
 
+<!-- PROFILE-NAV:START -->
 <p align="center">
-  <a href="#skills-reel"><b>SKILLS REEL</b></a> &nbsp; / &nbsp;
-  <a href="#selected-work"><b>SELECTED WORK</b></a> &nbsp; / &nbsp;
-  <a href="#explore-the-code"><b>EXPLORE THE CODE</b></a> &nbsp; / &nbsp;
-  <a href="https://danishdev.com"><b>PORTFOLIO</b></a> &nbsp; / &nbsp;
-  <a href="mailto:ahmed1921@live.com"><b>LET’S TALK</b></a>
+  <a href="#skills-reel"><img src="assets/nav-reel.svg" width="132" height="44" alt="Skills reel" /></a>
+  <a href="#selected-work"><img src="assets/nav-work.svg" width="148" height="44" alt="Selected work" /></a>
+  <a href="#explore-the-code"><img src="assets/nav-code.svg" width="164" height="44" alt="Explore the code" /></a>
+  <a href="https://danishdev.com"><img src="assets/nav-portfolio.svg" width="118" height="44" alt="Portfolio" /></a>
+  <a href="mailto:ahmed1921@live.com"><img src="assets/nav-contact.svg" width="130" height="44" alt="Let’s talk" /></a>
 </p>
+<!-- PROFILE-NAV:END -->
 
 <!-- SKILLS-REEL:START -->
 ## Skills reel
