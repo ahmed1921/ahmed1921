@@ -16,6 +16,18 @@
 <table width="100%">
 <tr>
 <td width="62%" valign="top">
+<img src="assets/about-stacked.svg" width="440" alt="What I build: gameplay worth coming back to. How I build: from prototype to production. Two visual cards stacked vertically." />
+</td>
+<td width="38%" align="center" valign="top">
+<h3>25-second skills reel</h3>
+<a href="https://raw.githubusercontent.com/ahmed1921/ahmed1921/main/assets/ahmed-danish-skills-reel-25s.mp4">
+  <img src="assets/skills-reel-preview.gif" width="280" alt="Ahmed Danish's silent portrait reel showcasing Unity development, XR, selected projects and client results." />
+</a>
+<p><a href="https://raw.githubusercontent.com/ahmed1921/ahmed1921/main/assets/ahmed-danish-skills-reel-25s.mp4"><b>Download the silent MP4 →</b></a></p>
+</td>
+</tr>
+<tr>
+<td width="62%" valign="top">
 <h3>9+ years building games &amp; XR</h3>
 <p><b>Senior Unity Developer · X Studios</b><br/>
 Games, AR/VR and interactive attractions for PC, mobile and WebGL.</p>
@@ -25,7 +37,8 @@ Unity · C# · Gameplay &amp; UI<br/>
 AR Foundation · OpenXR · Meta Quest<br/>
 Multiplayer · PlayFab · Firebase<br/>
 Performance optimization · AI tooling</p>
-
+</td>
+<td width="38%" valign="top">
 <p><b>Selected work</b><br/>
 <a href="#ebay-vault">eBay Vault Trials</a> — VR gameplay<br/>
 <a href="#coca-cola">Coca-Cola Refresh Lounge</a> — music kiosks<br/>
@@ -41,19 +54,10 @@ Game District · 2019</p>
 <p><a href="https://danishdev.com"><b>Explore my portfolio →</b></a><br/>
 <a href="mailto:ahmed1921@live.com">Let’s talk</a></p>
 </td>
-<td width="38%" align="center" valign="top">
-<h3>25-second skills reel</h3>
-<a href="https://raw.githubusercontent.com/ahmed1921/ahmed1921/main/assets/ahmed-danish-skills-reel-25s.mp4">
-  <img src="assets/skills-reel-preview.gif" width="280" alt="Ahmed Danish's silent portrait reel showcasing Unity development, XR, selected projects and client results." />
-</a>
-<p><a href="https://raw.githubusercontent.com/ahmed1921/ahmed1921/main/assets/ahmed-danish-skills-reel-25s.mp4"><b>Download the silent MP4 →</b></a></p>
-</td>
 </tr>
 </table>
 
 <!-- SKILLS-REEL:END -->
-
-<p align="center"><img src="assets/about.svg" width="100%" alt="What I build: gameplay, AR/VR, live attractions and connected screens. How I build: prototype, iterate and ship." /></p>
 
 <p align="center"><img src="assets/stack.svg" width="100%" alt="Engineering toolkit: Unity, C#, gameplay, XR, performance, networking, workflow and AI." /></p>
 
